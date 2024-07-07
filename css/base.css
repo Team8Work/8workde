@@ -297,7 +297,7 @@ a.frame__demos-item {
 
 .content p {
 	margin: 3vh 0 0 0;
-	max-width: 30ch;
+	max-width: 50ch;
 	font-weight: 400;
 	font-size: clamp(1.5rem,2vw,2rem);
 	font-variation-settings: "wght" 400, "opsz" 72, "ital" 0;
